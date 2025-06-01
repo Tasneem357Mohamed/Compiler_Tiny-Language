@@ -54,23 +54,7 @@ Tiny Language supports a structure similar to C-like procedural languages, inclu
 - **Identifier**: `Letter+ (Letter | Digit)*`
 - **Comment**: `(" / ")+ "*" (Digit | Letter | Operator)* "*" ("/")+`
 
-### DFA for Number:
-  ![[Pasted image 20250601052958.png]]
-### DFA for String:
-
-![[Pasted image 20250601053005.png]]
-### DFA for Identifier:
-
-![[Pasted image 20250601053014.png]]
-### DFA for Comment:
-  
-![[Pasted image 20250601053018.png]]
-### DFAs for Operators:
-
-![[Pasted image 20250601053021.png]]
-### DFAs for Reserved Keywords:
-
-![[Pasted image 20250601053029.png]]
+### DFA 
 
 **Reserved Keywords**:
 ```
@@ -197,17 +181,3 @@ int main() {
     return 0;
 }
 ```
-
-
----
-
-## 👨‍💻 Members
-
-| Name | GitHub Link |
-| ---- | ----------- |
-|      |             |
-|      |             |
-|      |             |
-|      |             |
-|      |             |
-|      |             |
