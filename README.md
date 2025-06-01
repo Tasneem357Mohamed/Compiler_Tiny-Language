@@ -55,22 +55,27 @@ Tiny Language supports a structure similar to C-like procedural languages, inclu
 - **Comment**: `(" / ")+ "*" (Digit | Letter | Operator)* "*" ("/")+`
 
 ### DFA for Number:
-  ![[Pasted image 20250601052958.png]]
+![Screenshot_2025-06-01_052850](https://github.com/user-attachments/assets/ad564cc8-9264-4feb-82f0-1abc3b4db270)
+
 ### DFA for String:
-<img width="629" alt="Screenshot 2025-06-01 at 5 48 23 AM" src="https://github.com/user-attachments/assets/ea7f13a1-f34a-4cfb-aad7-ef14dafdb19b" />
+![Screenshot_2025-06-01_052808](https://github.com/user-attachments/assets/6eb3ce69-5e13-4fcb-9e96-f64eb66db27e)
+
 
 ### DFA for Identifier:
 
-![[Pasted image 20250601053014.png]]
-### DFA for Comment:
-  
-![[Pasted image 20250601053018.png]]
-### DFAs for Operators:
+![Screenshot_2025-06-01_052812](https://github.com/user-attachments/assets/da6309f9-44d0-4c9b-8c43-1db06ffbfe54)
 
-![[Pasted image 20250601053021.png]]
+### DFA for Comment:
+![Screenshot_2025-06-01_052819](https://github.com/user-attachments/assets/fc936c7a-ba93-4584-a3bf-544b195ac516)
+
+
+### DFAs for Operators:
+![Screenshot_2025-06-01_052829](https://github.com/user-attachments/assets/69fb60ca-57c9-41d0-bd43-96f54e6c8902)
+
 ### DFAs for Reserved Keywords:
 
-![[Pasted image 20250601053029.png]]
+![Screenshot_2025-06-01_052838](https://github.com/user-attachments/assets/1ba43266-97d7-4c70-8712-88205913f661)
+
 
 **Reserved Keywords**:
 ```
@@ -197,17 +202,3 @@ int main() {
     return 0;
 }
 ```
-
-
----
-
-## 👨‍💻 Members
-
-| Name | GitHub Link |
-| ---- | ----------- |
-|      |             |
-|      |             |
-|      |             |
-|      |             |
-|      |             |
-|      |             |
