@@ -24,7 +24,6 @@ A compiler for the **Tiny Language** – a simple procedural programming languag
   - [Control Structures](#control-structures)
 - [Components](#-components)
 - [Example Code](#-example-code)
-- [Members](#-members)
 
 ---
 
