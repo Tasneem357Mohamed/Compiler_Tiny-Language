@@ -57,8 +57,8 @@ Tiny Language supports a structure similar to C-like procedural languages, inclu
 ### DFA for Number:
   ![[Pasted image 20250601052958.png]]
 ### DFA for String:
+<img width="629" alt="Screenshot 2025-06-01 at 5 48 23 AM" src="https://github.com/user-attachments/assets/ea7f13a1-f34a-4cfb-aad7-ef14dafdb19b" />
 
-![[Pasted image 20250601053005.png]]
 ### DFA for Identifier:
 
 ![[Pasted image 20250601053014.png]]
